@@ -7,3 +7,5 @@ Blind 75:
     Jul 20: no.3
 
     Jul 21: no.5 BF
+
+    Jul 22: no.5 DP
